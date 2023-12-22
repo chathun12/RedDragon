@@ -34,7 +34,7 @@ const autoReply = (msg) => {
         R = "🐶"
     }
     if(msg.match(/කව්ද|කවුද|kawd|who|kwd/gi)){
-        R = "😎මම තමයි රතු මකරා💀"
+        R = "😎මම තමයි චතුන් අනුසර 💀"
     }
     if(msg.match(/බය|baya/gi)){
         R = "😂හා"
